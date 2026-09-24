@@ -1,0 +1,6 @@
+env/
+audio/
+.env
+.vscode/
+*.exe
+__pycache__/
